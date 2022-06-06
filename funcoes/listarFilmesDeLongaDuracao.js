@@ -8,4 +8,4 @@ function listarFilmesDeLongaDuracao(catalogo){
     return filmesLongaDuracao;
 }
 
-module.export = listarFilmesDeLongaDuracao();
+export {listarFilmesDeLongaDuracao};

@@ -5,4 +5,4 @@ function alterarStatus(catalogo, codigo){
     return filmeAlterado;
  }
 
- module.export = alterarStatus();
+ export  {alterarStatus};

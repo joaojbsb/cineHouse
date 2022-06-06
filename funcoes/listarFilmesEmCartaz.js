@@ -8,4 +8,4 @@ function listarFilmesEmCartaz(catalogo) {
     }
 }
 
-module.export = listarFilmesEmCartaz();
+export {listarFilmesEmCartaz};

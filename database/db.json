@@ -1,0 +1,48 @@
+{"catalogo": [
+    {
+       "codigo": 1,
+       "titulo": "Doutor Estranho",
+       "anoDeLancamento": 2022,
+       "duracao": 1.55,
+       "genero": "Suspense",
+       "atores": "Benedict Cumberbatc",
+       "emCartaz": true
+    },
+    {
+       "codigo": 2, 
+       "titulo": "Avatar", 
+       "anoDeLancamento": 2009, 
+       "duracao":2.40, 
+       "genero":"Ficcao Cientifica",
+       "atores": "Sam Worthington",
+       "emCartaz": false
+    },
+    {
+       "codigo": 3,
+       "titulo": "The Batman",
+       "anoDeLancamento": 2022,
+       "duracao": 2.57,
+       "genero": "Suspense",
+       "atores": "Cristian Bale",
+       "emCartaz": true
+    },
+    {
+      "codigo": 4,
+      "titulo": "Vingadores",
+      "anoDeLancamento": 2022,
+      "duracao": 1.40,
+      "genero": "Suspense",
+      "atores": "Cristian Bale",
+      "emCartaz": true
+    },
+    {
+      "codigo": 5,
+      "titulo": "Liga da Justiça",
+      "anoDeLancamento": 2017,
+      "duracao": 2.30,
+      "genero": "Suspense",
+      "atores": "Cristian Bale",
+      "emCartaz": false
+    }   
+   ]
+}

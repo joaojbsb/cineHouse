@@ -3,4 +3,4 @@ function buscarFilme(catalogo, codigo){
 )
 }
 
-module.export =  buscarFilme();
+export { buscarFilme };

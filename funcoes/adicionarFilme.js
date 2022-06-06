@@ -12,4 +12,4 @@ function adicionarFilme(catalogo, filme){
     emCartaz: true
 })*/
 
-module.export = adicionarFilme();
+export {adicionarFilme};
